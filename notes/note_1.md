@@ -1,0 +1,1 @@
+this is a naked term1 and here is [[term2]], it is already bracketted. here is a [[term1]] that already is linked.

@@ -1,0 +1,1 @@
+[[link]] and this is a naked link. Here is a punctuated [[link]].
